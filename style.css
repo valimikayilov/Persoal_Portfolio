@@ -1,4 +1,20 @@
+.flexcontainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 #welcome-section{
-
-
+background-color: orange;
+height: 300px;
+text-align: center;
+vertical-align: center;
+}
+#projects{
+  background-color: green;
+  height: 300px;
+}
+#contact{
+  background-color: pink;
+  height: 300px;
 }
